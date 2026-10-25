@@ -1,5 +1,5 @@
 # my-website
-
+![CI](https://github.com/mizzimax/my-website/actions/workflows/ci.yml/badge.svg)
 放送大学　面接授業「GitHubによるウェブ開発」で作成している自己紹介サイトです。
 
 ## 内容
